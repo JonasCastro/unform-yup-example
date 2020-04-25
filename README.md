@@ -15,7 +15,7 @@
 3. Run `yarn` to install  dependencies;
 4. Run `yarn start` to start application;
 
-##: memo: License
+##:memo: License
 
 This project is under license from MIT. See the [LICENSE](LICENSE) file for more details.
 
