@@ -3,13 +3,15 @@
 </h1>
 <p align="center">Example of using unform and yup.</p>
 
+![Demo](demo.gif)
 
-## Pré-requisitos
-
+## :gear: Technologies
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
+- [Unform](https://unform.dev/)
+- Yup
 
-## Steps to use
+## :checkered_flag: To run the project:
 1. Make a `git clone` from this repository;
 2. Enter the `cd unform-yup-example` folder;
 3. Run `yarn` to install  dependencies;
